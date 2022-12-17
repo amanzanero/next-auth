@@ -285,3 +285,5 @@ export async function AuthHandler(
   }
   return response
 }
+
+console.log("test")
